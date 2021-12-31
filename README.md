@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python 
 - 💞️ I aim to attain an engaging job position in Software Developer. I hope to have a chance to challenge myself in the real world through a new working environment.
 - 📫 How to reach me
-- 
 songrithy18@kit.edu.kh
 songrithy2244@gmail.com
 
